@@ -1,0 +1,11 @@
+# Public DNS
+
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,dns64.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns9.quad9.net
+DOMAIN-SUFFIX,doh.sb
+DOMAIN-SUFFIX,dns.sb
